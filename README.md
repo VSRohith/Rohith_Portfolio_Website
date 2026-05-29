@@ -19,7 +19,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 This portfolio was created to showcase my projects, technical skills, and web development experience.
 
 ## Live Demo
-Coming Soon
+https://rohith-v-s-portfolio.netlify.app/  
 
 ## Author
 Rohith V S
